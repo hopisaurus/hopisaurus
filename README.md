@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: me@hopisaurus.com
 - 😄 Nickname: hop/hopi
-- ⚡ Fun fact: I love gardening and cooking
+- ⚡ Fun fact: I love gardening, cooking, and car engineering
 
