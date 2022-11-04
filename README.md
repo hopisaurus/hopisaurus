@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on open source projects
 
+- 💨 Ask me about DevOps, CI/CD, and Infra
+
 - ❤️ I love gardening, cooking, and car engineering
 
 - 📫 How to reach me: me@hopisaurus.com
