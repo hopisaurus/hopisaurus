@@ -12,14 +12,9 @@
 
 ---
 
-<a href="https://github.com/hopisaurus/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hopisaurus&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true" alt="hopisaurus' github stats" />
-</a>
-<a href="https://github.com/hopisaurus/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopisaurus&layout=compact&theme=great-gatsby&hide_border=true" />
-</a>
+| <a href="https://github.com/hopisaurus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hopisaurus&include_all_commits=true&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true" alt="hopisaurus' github stats" /></a> | <a href="https://github.com/hopisaurus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopisaurus&layout=compact&theme=great-gatsby&hide_border=true" /></a> |
+| ------------- | ------------- |
 
----
 
 ## Recent Work
 
