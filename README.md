@@ -4,13 +4,13 @@
 
 - 💼 I’m currently working on blockchain infrastructure
 
-- 📈 I’m currently learning Rust, Solidity, and Go
+- 📈 I’m currently learning Rust and Solidity
 
 - 👯 I’m looking to collaborate on open source projects
 
-- 💨 Ask me about DevOps, CI/CD, and Infra
+- 💨 Ask me about DevEx, CI/CD, and Infra
 
-- ❤️ I love gardening, cooking, and car engineering
+- ❤️ I love gardening, cooking, and car building
 
 - 📫 How to reach me: me@hopisaurus.com
 
